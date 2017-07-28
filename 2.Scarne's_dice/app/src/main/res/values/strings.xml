@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scarne\'s_dice</string>
+    <string name="rool">ROLL</string>
+    <string name="hold">HOLD</string>
+    <string name="reset">RESET</string>
+    <string name="user_score">USER SCORE : </string>
+    <string name="comp_score">COMPUTER SCORE : </string>
+    <string name="turn_score">TURN SCORE : </string>
+</resources>
